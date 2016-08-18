@@ -1,4 +1,4 @@
-shortcut="HomeVideosButton1,plugin.video.exodus"
+shortcut="HomeVideosButton1,plugin.video.bilibili"
 shortcut="HomeVideosButton2,plugin.video.salts"
 shortcut="HomeVideosButton3,plugin.video.velocity"
 shortcut="HomeVideosButton4,plugin.video.ccloudtv"

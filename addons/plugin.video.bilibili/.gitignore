@@ -1,0 +1,5 @@
+*~
+*.pyc
+*.pyo
+*.swp
+resources/lib/test.py
